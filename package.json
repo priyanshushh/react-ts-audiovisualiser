@@ -11,7 +11,7 @@
     "audiovisualiser-react-typescript"
   ],
   "repository": {
-    "url": "https://github.com/priyanshushh/React-AudioVisualiser"
+    "url": "https://github.com/priyanshushh/react-ts-audiovisualiser"
   },
   "homepage": "https://react-audio-visualiser.vercel.app/",
   "scripts": {
