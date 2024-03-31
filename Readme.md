@@ -48,9 +48,11 @@ export default App;
 ```
 type - "circular","blocks"
 liquidStyle - "boolean"
-color - "white" , "colorfull";
+color - "white" , "colorfull"
 customColor - "any css acceptable color"
-fftSize - 64 , 128 , 512 , 1024;
+fftSize - 64 , 128 , 512 , 1024
+height - "number" // by default its window.innerHeight/2
+width - "number" // by default its window.innerWidth
 ```
 
 I would love to see your views on this small package. Thanks for checking it out.
