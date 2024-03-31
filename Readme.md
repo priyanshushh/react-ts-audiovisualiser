@@ -16,8 +16,7 @@ Import the AudioVisualizer component and pass in the necessary props:
 
 ```
 import { useState } from "react";
-import "./App.css";
-import AudioVisualiser from "./components/AudioVisualiser/AudioVisualiser";
+import AudioVisualiser from "react-ts-audiovisualiser"
 function App() {
   const [data, setData] = useState<FileList>();
   return (
