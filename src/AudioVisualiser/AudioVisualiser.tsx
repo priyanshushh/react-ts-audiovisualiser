@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import "./AudioVisualiser.css";
+import "./styles.css";
 import React from "react";
 type AudioVisualiserProps = {
   data: FileList | [];
