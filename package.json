@@ -1,6 +1,6 @@
 {
   "name": "react-ts-audiovisualiser",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "an audio visualiser",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -25,7 +25,6 @@
     "typescript": "^5.4.3"
   },
   "dependencies": {
-    "react": "^18.2.0",
-    "react-ts-audiovisualiser": "^0.0.1"
+    "react": "^18.2.0"
   }
 }
