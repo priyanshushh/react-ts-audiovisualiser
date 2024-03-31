@@ -1,0 +1,31 @@
+{
+  "name": "react-ts-audiovisualiser",
+  "version": "0.0.4",
+  "description": "an audio visualiser",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "keywords": [
+    "audio-visualiser",
+    "react-ts",
+    "audiovisualiser-react-typescript"
+  ],
+  "repository": {
+    "url": "https://github.com/priyanshushh/React-AudioVisualiser"
+  },
+  "homepage": "https://react-audio-visualiser.vercel.app/",
+  "scripts": {
+    "build": "tsup"
+  },
+  "author": "priyanshushh",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^18.2.73",
+    "tsup": "^8.0.2",
+    "typescript": "^5.4.3"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-ts-audiovisualiser": "^0.0.1"
+  }
+}
